@@ -1,0 +1,43 @@
+/* Estilos da página index.html*/
+
+.center{
+    text-align: center;
+}
+
+.container{
+    display:flex;
+    flex-flow:row wrap;
+    justify-content:center;
+    align-items: center;
+}
+
+.menu li{
+
+    display: inline;
+    padding: 10px;
+}
+
+.menu li a{
+   text-decoration: none;
+   color: black;
+   font-size: 30;
+}
+
+.menu li a:hover {
+    color:rgb(243, 77, 17);
+}
+
+h1{
+color: rgb(243, 77, 17);
+font-size: 43px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ section{
+color: rgb(55, 59, 59);
+ }
+
+.br-50 {
+    border-radius: 20%;
+}
+
+ /* Estilos de página contato.html*/
